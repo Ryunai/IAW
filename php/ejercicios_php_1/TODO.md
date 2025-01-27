@@ -7,6 +7,6 @@
 - [x] **Ejercicio 5:** Arrays básicos  
 - [x] **Ejercicio 6:** Arrays asociativos  
 - [x] **Ejercicio 7:** Comparaciones booleanas  
-- [ ] **Ejercicio 8:** Bucles con arrays  
-- [ ] **Ejercicio 9:** Objetos básicos  
+- [x] **Ejercicio 8:** Bucles con arrays  
+- [x] **Ejercicio 9:** Objetos básicos  
 

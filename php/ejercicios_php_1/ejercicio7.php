@@ -28,7 +28,7 @@
 			echo "true"."<br>"."<br>";
 		}
 		else {
-			echo "true"."<br>"."<br>";
+			echo "false"."<br>"."<br>";
 		}
 	
 	echo "Num1 y num2 son iguales?"."<br>";
@@ -36,7 +36,7 @@
 			echo "true"."<br>"."<br>";
 		}
 		else {
-			echo "true"."<br>"."<br>";
+			echo "false"."<br>"."<br>";
 		}
 
 	echo "Num1 y num2 son identicos?"."<br>";
@@ -44,7 +44,7 @@
 			echo "true"."<br>"."<br>";
 		}
 		else {
-			echo "true"."<br>"."<br>";
+			echo "false"."<br>"."<br>";
 		}
 
 	echo "Num1 es menor que Num2?"."<br>";
@@ -52,7 +52,7 @@
 			echo "true"."<br>"."<br>";
 		}
 		else {
-			echo "true"."<br>"."<br>";
+			echo "false"."<br>"."<br>";
 		}
 
 	echo "Num1 es mayor que Num2?"."<br>";
@@ -60,7 +60,7 @@
 			echo "true"."<br>"."<br>";
 		}
 		else {
-			echo "true"."<br>"."<br>";
+			echo "false"."<br>"."<br>";
 	}
 
 ?>
