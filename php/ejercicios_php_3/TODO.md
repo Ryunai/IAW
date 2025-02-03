@@ -8,14 +8,14 @@
 - [x] **Ejercicio 5**: Validar casos base y recursividad en `factorial()`.
 - [x] **Ejercicio 6**: Usar `array_diff` y mostrar diferencias entre arrays.
 - [x] **Ejercicio 7**: Combinar arrays y verificar resultado con `array_merge`.
-- [-] **Ejercicio 8**: Ordenar array y mostrar antes/después de `sort`.
-- [-] **Ejercicio 9**: Barajar array de letras usando `shuffle`.
-- [-] **Ejercicio 10**: Contar elementos y mostrar resultado con `count`.
-- [-] **Ejercicio 11**: Formatear fecha actual con `date("d-m-Y")`.
-- [-] **Ejercicio 12**: Extraer detalles de fecha con `getdate()`.
+- [x] **Ejercicio 8**: Ordenar array y mostrar antes/después de `sort`.
+- [x] **Ejercicio 9**: Barajar array de letras usando `shuffle`.
+- [x] **Ejercicio 10**: Contar elementos y mostrar resultado con `count`.
+- [x] **Ejercicio 11**: Formatear fecha actual con `date("d-m-Y")`.
+- [x] **Ejercicio 12**: Extraer detalles de fecha con `getdate()`.
 
 ## Tareas Generales
-- [-] Agregar comentarios con datos del alumno en cada archivo.
+- [x] Agregar comentarios con datos del alumno en cada archivo.
 - [ ] Capturar pantallas del código y resultados en navegador.
 - [ ] Generar PDF de entrega.
-- [-] Revisar código para evitar errores de sintaxis.
+- [x] Revisar código para evitar errores de sintaxis.
