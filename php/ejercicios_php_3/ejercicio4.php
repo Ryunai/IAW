@@ -24,14 +24,15 @@
 
 // Función que incrementa un número por valor
 //
-function incrementarPorValor($numero){
-	$numero++;
+function incrementarPorValor($num1){
+	$num1++;
+	return $num1;
 }
 
 // Función que incrementa un número por referencia
 //
-function incrementarPorReferencia(&$numero){
-	$numero++;
+function incrementarPorReferencia(&$num2){
+	$num2++;
 }
 
 // Declaramos una variable con el valor 5
@@ -41,8 +42,8 @@ $numero = 5;
 // Incrementamos el número por valor
 //
 echo "Número antes de incrementar por valor: $numero<br>";
-incrementarPorValor($numero);
-echo "Número después de incrementar por valor: $numero<br>";
+$incremento=incrementarPorValor($numero);
+echo "Número después de incrementar por valor: $incremento<br>";
 
 // Incrementamos el número por referencia
 //
