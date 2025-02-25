@@ -16,6 +16,6 @@
 
 ## Tareas Generales
 - [x] Agregar comentarios con datos del alumno en cada archivo.
-- [ ] Capturar pantallas del código y resultados en navegador.
-- [ ] Generar PDF de entrega.
+- [x] Capturar pantallas del código y resultados en navegador.
+- [x] Generar PDF de entrega.
 - [x] Revisar código para evitar errores de sintaxis.
