@@ -25,7 +25,7 @@ Mostrar cada elemento.
 */
 
 // Cambiar el directorio de trabajo.
-chdir("C:/xampp/htdocs/php/ejercicios_php_4");
+chdir('../');
 // Obtener y mostrar el directorio actual.
 $directorio = getcwd();
 echo "<h2>Contenido de la carpeta $directorio:</h2>";
