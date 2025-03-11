@@ -33,10 +33,10 @@ if (isset($_POST['calcular'])) {
             $resultado = $num1 * $num2;
             break;
         case 'division':
-            $resultado = ($num2 != 0) ? $num1 / $num2 : "Error: división por cero";
+            $resultado = ($num2 != 0) ? $num1 / $num2 : "Error: division por cero";
             break;
         default:
-            $resultado = "Operación no válida";
+            $resultado = "Operacion no válida";
     }
     
     echo "<h3>Resultado: $num1 " . strtoupper($operacion) . " $num2 = $resultado</h3>";
