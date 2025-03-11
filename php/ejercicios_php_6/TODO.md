@@ -1,10 +1,10 @@
 # Lista de Tareas - PHP Forms
 
 ## Tareas Generales
-- [ ] Incluir bloque de autor en TODOS los archivos PHP
-- [ ] Crear PDF con capturas de código + resultados en navegador
-- [ ] Subir todos los archivos PHP finalizados
-- [ ] Organizar código en carpetas por ejercicio (opcional)
+- [x] Incluir bloque de autor en TODOS los archivos PHP
+- [x] Crear PDF con capturas de código + resultados en navegador
+- [x] Subir todos los archivos PHP finalizados
+- [x] Organizar código en carpetas por ejercicio (opcional)
 
 ----------------------------------
 
@@ -24,15 +24,15 @@
 
 ## Ejercicio 2: Calculadora
 ### Formulario (calculadora.html)
-- [ ] Dos campos numéricos
-- [ ] Selector con 4 operaciones
-- [ ] Botón submit llamado "calcular"
+- [x] Dos campos numéricos
+- [x] Selector con 4 operaciones
+- [x] Botón submit llamado "calcular"
 
 ### Procesamiento (procesar_calculadora.php)
-- [ ] Recuperar números y operación
-- [ ] Validar división por cero
-- [ ] Implementar switch para operaciones
-- [ ] Mostrar fórmula completa (ej: "5 + 3 = 8")
+- [x] Recuperar números y operación
+- [x] Validar división por cero
+- [x] Implementar switch para operaciones
+- [x] Mostrar fórmula completa (ej: "5 + 3 = 8")
 
 ----------------------------------
 
@@ -67,17 +67,17 @@
 
 ## Ejercicio 5: Encuesta de Preferencias
 ### Formulario (encuesta.html)
-- [ ] Campos nombre y email
-- [ ] 3 radio buttons para género
-- [ ] 3 checkboxes para intereses
-- [ ] Textarea para comentarios
-- [ ] Botón submit
+- [x] Campos nombre y email
+- [x] 3 radio buttons para género
+- [x] 3 checkboxes para intereses
+- [x] Textarea para comentarios
+- [x] Botón submit
 
 ### Procesamiento (procesar_encuesta.php)
-- [ ] Validar campos obligatorios
-- [ ] Mostrar resumen con todos los datos
-- [ ] Manejar campos opcionales (checkboxes no seleccionados)
-- [ ] Formatear salida con estilos básicos
+- [x] Validar campos obligatorios
+- [x] Mostrar resumen con todos los datos
+- [x] Manejar campos opcionales (checkboxes no seleccionados)
+- [x] Formatear salida con estilos básicos
 
 ----------------------------------
 
