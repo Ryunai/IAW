@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title> Ejercicios PHP 3 </title>
+<title> Ejercicios PHP 5 </title>
 </head>
 
 <body>

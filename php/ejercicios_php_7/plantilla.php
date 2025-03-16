@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title> Ejercicios PHP 5 </title>
+<title> Ejercicios PHP 3 </title>
 </head>
 
 <body>
@@ -14,10 +14,7 @@
 	Curso 2024 - 2025
 */
 
-echo "<h3>Cookies almacenadas:</h3>";
-foreach ($_COOKIE as $nombre => $valor) {
-    echo "$nombre: $valor <br>";
-}
+
 
 ?>
 
